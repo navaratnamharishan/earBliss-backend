@@ -26,7 +26,7 @@ Prerequisites
  Installation
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/Ear-Bliss-Backend.git
+  https://github.com/navaratnamharishan/earBliss-backend.git
   
 2. Open the project in IntelliJ IDEA.
 
